@@ -40,12 +40,10 @@ Currently finishing my MS in AI at FAU. Proclaimed "locked in" hours may or may 
 
 ---
 
-## GitHub Stats
+## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shans15&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shans15&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shans15&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=tex,c%2B%2B&exclude_repo=SeniorDesign2023Wallcopter,testrepo" alt="Top Languages" />
 </p>
 
 ---
