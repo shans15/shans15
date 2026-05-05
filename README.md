@@ -1,4 +1,4 @@
-# hey, i'm sarthak 👋
+# hey, I'm Sarthak!
 
 TechOps Engineer @ Orangetheory Fitness · MS AI @ Florida Atlantic University
 
